@@ -98,3 +98,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# Ipython history
+.ipynb_checkpoints/
